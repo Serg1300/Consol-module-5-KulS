@@ -1,0 +1,8 @@
+E:\SkilFact\NewConsol\Prodj1\bin\Debug\Prodj1.exe.config
+E:\SkilFact\NewConsol\Prodj1\bin\Debug\Prodj1.exe
+E:\SkilFact\NewConsol\Prodj1\bin\Debug\Prodj1.pdb
+E:\SkilFact\NewConsol\Prodj1\obj\Debug\Prodj1.csproj.AssemblyReference.cache
+E:\SkilFact\NewConsol\Prodj1\obj\Debug\Prodj1.csproj.SuggestedBindingRedirects.cache
+E:\SkilFact\NewConsol\Prodj1\obj\Debug\Prodj1.csproj.CoreCompileInputs.cache
+E:\SkilFact\NewConsol\Prodj1\obj\Debug\Prodj1.exe
+E:\SkilFact\NewConsol\Prodj1\obj\Debug\Prodj1.pdb
